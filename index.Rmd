@@ -1,0 +1,19 @@
+---
+title: "Hamid Y. Hassen"
+image: "hamid.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/hhassen-52329875/"
+  - label: ORCID
+    url: "https://orcid.org/my-orcid?orcid=0000-0001-6485-4193"
+  - label: GitHub
+    url: "https://github.com/HHassen-eth"
+  - label: twitter
+    url: "https://twitter.com/AbdulhamidYimam"
+  - label: Email
+    url: "mailto:abdulhamidy71@gmail.com"
+output:
+  postcards::jolla_blue
+---
+ 
+Grow up in Ethiopia, I am an Epidemiologist and medical statistician.
