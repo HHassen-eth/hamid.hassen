@@ -15,10 +15,43 @@ links:
   - label: Email
     url: "mailto:abdulhamidy71@gmail.com"
 output:
-  postcards::jolla_blue
+  postcards::trestles
 ---
  
-Grow up in Ethiopia, I am an Epidemiologist and medical statistician.
+## Bio
+
+Grow up in Ethiopia, Hamid is an Epidemiologist and medical statistician. His research focuses on identifying causes and prevention strategies of noncommunicable diseases including cardiovascular diseases and cancer. He frequently collaborates with 
+researchers who study epidemiological methods, NCD prevention, and cancer survival disparities across settings.
+
+## Education
+
+**University of Antwerp** | Antwerp, Belgium
+
+Ph.D. in Epidemiology | September 2019 - June 2023
+
+**University of Antwerp** | Antwerp, Belgium
+
+MSc. in Epimiology | September 2017 - July 2019
+
+**Addis Ababa University** | Addis Ababa, Ethiopia
+
+MPH in Epimiology | September 2012 - September 2014
+
+## Experience
+
+**VITO** | R & D Researcher | Nov. 2022 - Present
+
+**University of Antwerp** | Doctoral Researcher | September 2019 - October 2022
+
+**Mizan Tepi University** | Lecturer | September 2014 - August 2017
+
+He has authored a number of scientific articles in the fields of epidemiology and medicine, including:
+
+- [Survival pattern of colorectal cancer in Sub-Saharan Africa: A systematic review and meta-analysis](https://doi.org/10.1016/j.canep.2022.102276)
+
+- [Effectiveness of community-based cardiovascular disease prevention interventions to improve physical activity: A systematic review and meta-regression](Effectiveness of community-based cardiovascular disease prevention interventions to improve physical activity: A systematic review and meta-regression)
+
+- [Estimates, trends, and drivers of the global burden of type 2 diabetes attributable to PM2.5 air pollution, 1990–2019: an analysis of data from the Global Burden of Disease Study 2019](https://doi.org/10.1016/S2542-5196(22)00122-X)
 
 ```{r, echo=FALSE}
 library(metathis)
