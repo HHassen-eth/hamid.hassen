@@ -8,7 +8,9 @@ links:
     url: "https://orcid.org/my-orcid?orcid=0000-0001-6485-4193"
   - label: GitHub
     url: "https://github.com/HHassen-eth"
-  - label: twitter
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Hamid-Hassen"
+  - label: Twitter
     url: "https://twitter.com/AbdulhamidYimam"
   - label: Email
     url: "mailto:abdulhamidy71@gmail.com"
@@ -17,3 +19,24 @@ output:
 ---
  
 Grow up in Ethiopia, I am an Epidemiologist and medical statistician.
+
+```{r, echo=FALSE}
+library(metathis)
+
+meta() %>% 
+  meta_description(
+    "Hamid Hassen: Epidemiologist, Medical statistician, Public health researcher and Author"
+  ) %>% 
+  meta_name("github-repo" = "hamid.hassen") %>% 
+  meta_viewport() %>% 
+  meta_social(
+    title = "Hamid Hassen: Epidemiologist, Medical statistician, Public health researcher and Author",
+    url = "https://hhassen-eth.github.io/hamid.hassen/",
+    image = "https://github.com/HHassen-eth/hamid.hassen/blob/main/hamid.jpg",
+    image_alt = "Photo of Hamid Hassen",
+    og_author = c("Hamid Y. Hassen"),
+    twitter_card_type = "summary",
+    twitter_creator = "@AbdulhamidYimam"
+  )
+```
+
