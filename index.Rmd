@@ -52,6 +52,8 @@ He has authored a number of scientific articles in the fields of epidemiology an
 - [Effectiveness of community-based cardiovascular disease prevention interventions to improve physical activity: A systematic review and meta-regression](Effectiveness of community-based cardiovascular disease prevention interventions to improve physical activity: A systematic review and meta-regression)
 
 - [Estimates, trends, and drivers of the global burden of type 2 diabetes attributable to PM2.5 air pollution, 1990–2019: an analysis of data from the Global Burden of Disease Study 2019](https://doi.org/10.1016/S2542-5196(22)00122-X)
+- [Progress in health among regions of Ethiopia, 1990–2019: a subnational country analysis for the Global Burden of Disease Study 2019](https://doi.org/10.1016/S0140-6736(21)02868-3)
+
 
 ```{r, echo=FALSE}
 library(metathis)
