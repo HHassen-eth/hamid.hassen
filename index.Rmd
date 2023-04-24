@@ -45,7 +45,9 @@ MPH in Epimiology | September 2012 - September 2014
 
 **Mizan Tepi University** | Lecturer | September 2014 - August 2017
 
-He has authored a number of scientific articles in the fields of epidemiology and medicine, including:
+## Publications
+
+He has authored more than 50 scientific articles in the fields of epidemiology and medicine. Some of them are listed here:
 
 - [Survival pattern of colorectal cancer in Sub-Saharan Africa: A systematic review and meta-analysis](https://doi.org/10.1016/j.canep.2022.102276)
 
@@ -63,7 +65,7 @@ He has authored a number of scientific articles in the fields of epidemiology an
 
 - [Community-Based Interventions for Cardiovascular Disease Prevention in Low-and Middle-Income Countries: A Systematic Review](https://www.ssph-journal.org/articles/10.3389/phrs.2021.1604018/full)
 
-- [The performance of mid-upper arm circumference for identifying children and adolescents with overweight and obesity: A systematic review and meta-Analysis](https://www.cambridge.org/core/journals/public-health-nutrition/article/performance-of-midupper-arm-circumference-for-identifying-children-and-adolescents-with-overweight-and-obesity-a-systematic-review-and-metaanalysis/86BCCAE046ECA8734DA45BD09CB0EC46)
+- [The performance of mid-upper arm circumference for identifying children and adolescents with overweight and obesity: A systematic review and meta-Analysis](https://doi.org/10.1017/s1368980022000143)
 
 - [Survival Status of Esophageal Cancer Patients and its Determinants in Ethiopia: A Facility Based Retrospective Cohort Study](https://www.frontiersin.org/articles/10.3389/fonc.2020.594342/full)
 
@@ -71,6 +73,31 @@ He has authored a number of scientific articles in the fields of epidemiology an
 
 - [Diagnostic performance of mid-upper arm circumference for detecting severe wasting among infants aged 1–6 months in Ethiopia](https://doi.org/10.1093/ajcn/nqaa294)
 
+- [Dietary pattern and its association with iodine deficiency among school children in southwest Ethiopia; A cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221106)
+
+- [Dietary diversity and its determinants among children aged 6-23 months in Ethiopia: evidence from the 2016 Demographic and Health Survey](https://doi.org/10.1017/jns.2022.87) 
+
+- [The effect of mobile text messages on knowledge and perception towards cancer and behavioral risks among college students, Northeast Ethiopia: A randomized controlled trial protocol](https://doi.org/10.1371/journal.pone.0253839)
+
+- [Cultural adaptation and validation of the Children's Eating Behaviour Questionnaire in Ethiopia](https://doi.org/10.1017/jns.2021.45)
+
+- [Case Report: Khat Chewing and Acute Myocardial Infarction in Two Young Men without Underlying Risk Factors](https://doi.org/10.4269/ajtmh.21-0318)
+
+- [Histological characteristics, survival pattern and prognostic determinants among colorectal cancer patients in Ethiopia: A retrospective cohort study](https://doi.org/10.1016/j.heliyon.2021.e06366)
+
+- [National incidence, prevalence and disability-adjusted life years (DALYs) of common micronutrient deficiencies in Ethiopia from 1990to 2017: estimates from the global burden of diseases study](https://doi.org/10.1080/16549716.2020.1776507)
+
+- [Level of physical activity and other maternal characteristics during the third trimester of pregnancy and its association with birthweight at term in South Ethiopia: A prospective cohort study](https://doi.org/10.1371/journal.pone.0236136)
+
+- [Development and Validation of a Risk Score to Predict Low Birthweight Using Characteristics of the Mother: Analysis from BUNMAP Cohort in Ethiopia](https://doi.org/10.3390/jcm9051587)
+
+- [Dietary Habit and Other Risk Factors of Chronic Kidney Disease Among Patients Attending Dessie Referral Hospital, Northeast Ethiopia](https://www.tandfonline.com/doi/full/10.2147/IJNRD.S248075)
+
+- [Survival and prognostic determinants of prostate cancer patients in Tikur Anbessa Specialized Hospital, Addis Ababa, Ethiopia: A retrospective cohort study](https://doi.org/10.1371/journal.pone.0229854)
+
+- [Determinants of Acute Respiratory InfectionAmong Children in Ethiopia: A Multilevel Analysisfrom Ethiopian Demographic and Health Survey](https://www.tandfonline.com/doi/full/10.2147/IJGM.S233782)
+
+- [Global, Regional, and National Burden of Cardiovascular Diseases for 10 Causes, 1990 to 2015](https://www.jacc.org/doi/full/10.1016/j.jacc.2017.04.052)
 
 ```{r, echo=FALSE}
 library(metathis)
