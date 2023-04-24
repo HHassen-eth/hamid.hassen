@@ -20,7 +20,7 @@ output:
  
 ## Bio
 
-Grow up in Ethiopia, Hamid is an Epidemiologist and medical statistician. His research focuses on identifying causes and prevention strategies of noncommunicable diseases including cardiovascular diseases and cancer. He frequently collaborates with 
+Grow up in Ethiopia, Hamid is a passionate Epidemiologist and medical statistician. His current research looks at risk factors of non-communicable diseases, mainly cardiovascular diseases and cancer, development and validation of prediction models, and implementation of prevention strategies. He also focuses on advances in epidemiological & statistical methods and evaluation of health outcome measurement tools. In his more 5 years of research experience, Hamid authored more than 50 peer reviewed articles in international reputable journals.He frequently collaborates with 
 researchers who study epidemiological methods, NCD prevention, and cancer survival disparities across settings.
 
 ## Education
@@ -52,7 +52,18 @@ He has authored a number of scientific articles in the fields of epidemiology an
 - [Effectiveness of community-based cardiovascular disease prevention interventions to improve physical activity: A systematic review and meta-regression](Effectiveness of community-based cardiovascular disease prevention interventions to improve physical activity: A systematic review and meta-regression)
 
 - [Estimates, trends, and drivers of the global burden of type 2 diabetes attributable to PM2.5 air pollution, 1990–2019: an analysis of data from the Global Burden of Disease Study 2019](https://doi.org/10.1016/S2542-5196(22)00122-X)
+
 - [Progress in health among regions of Ethiopia, 1990–2019: a subnational country analysis for the Global Burden of Disease Study 2019](https://doi.org/10.1016/S0140-6736(21)02868-3)
+
+- [Type and effectiveness of community-based interventions in improving knowledge related to cardiovascular diseases and risk factors: A systematic review](https://doi.org/10.1016/j.ajpc.2022.100341)
+
+- [Level of cardiovascular disease knowledge, risk perception and intention towards healthy lifestyle and socioeconomic disparities among adults in vulnerable communities of Belgium and England](https://doi.org/10.1186/s12889-022-12608-z)
+
+- [Validation of the Dutch-Flemish translated ABCD questionnaire to measure cardiovascular diseases knowledge and risk perception among adults](https://www.nature.com/articles/s41598-021-88456-5)
+
+- [Community-Based Interventions for Cardiovascular Disease Prevention in Low-and Middle-Income Countries: A Systematic Review](https://www.ssph-journal.org/articles/10.3389/phrs.2021.1604018/full)
+
+- [The performance of mid-upper arm circumference for identifying children and adolescents with overweight and obesity: A systematic review and meta-Analysis](https://www.cambridge.org/core/journals/public-health-nutrition/article/performance-of-midupper-arm-circumference-for-identifying-children-and-adolescents-with-overweight-and-obesity-a-systematic-review-and-metaanalysis/86BCCAE046ECA8734DA45BD09CB0EC46)
 
 
 ```{r, echo=FALSE}
