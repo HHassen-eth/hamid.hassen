@@ -65,6 +65,12 @@ He has authored a number of scientific articles in the fields of epidemiology an
 
 - [The performance of mid-upper arm circumference for identifying children and adolescents with overweight and obesity: A systematic review and meta-Analysis](https://www.cambridge.org/core/journals/public-health-nutrition/article/performance-of-midupper-arm-circumference-for-identifying-children-and-adolescents-with-overweight-and-obesity-a-systematic-review-and-metaanalysis/86BCCAE046ECA8734DA45BD09CB0EC46)
 
+- [Survival Status of Esophageal Cancer Patients and its Determinants in Ethiopia: A Facility Based Retrospective Cohort Study](https://www.frontiersin.org/articles/10.3389/fonc.2020.594342/full)
+
+- [Socioeconomic and behavioral determinants of cardiovascular diseases among older adults in Belgium and France: A longitudinal analysis from the SHARE study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243422)
+
+- [Diagnostic performance of mid-upper arm circumference for detecting severe wasting among infants aged 1–6 months in Ethiopia](https://doi.org/10.1093/ajcn/nqaa294)
+
 
 ```{r, echo=FALSE}
 library(metathis)
