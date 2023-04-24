@@ -49,7 +49,7 @@ He has authored a number of scientific articles in the fields of epidemiology an
 
 - [Survival pattern of colorectal cancer in Sub-Saharan Africa: A systematic review and meta-analysis](https://doi.org/10.1016/j.canep.2022.102276)
 
-- [Effectiveness of community-based cardiovascular disease prevention interventions to improve physical activity: A systematic review and meta-regression](Effectiveness of community-based cardiovascular disease prevention interventions to improve physical activity: A systematic review and meta-regression)
+- [Effectiveness of community-based cardiovascular disease prevention interventions to improve physical activity: A systematic review and meta-regression](https://www.sciencedirect.com/science/article/pii/S0091743521003662)
 
 - [Estimates, trends, and drivers of the global burden of type 2 diabetes attributable to PM2.5 air pollution, 1990–2019: an analysis of data from the Global Burden of Disease Study 2019](https://doi.org/10.1016/S2542-5196(22)00122-X)
 
